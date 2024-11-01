@@ -27,7 +27,7 @@ public class NotificationService {
 //			throw new Exception("Serviço de notificação está fora do ar");
 //
 //		}
-		
+
 		System.out.println("Notificao enviada para o usuario");
 	}
 }
